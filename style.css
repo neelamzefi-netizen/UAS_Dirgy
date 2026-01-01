@@ -49,7 +49,7 @@
 }
 
 .hero .content{
-    padding: 1.4rem 7%;
+    padding: 1.2rem 7%;
      max-width: 60rem;
 }
 
@@ -83,7 +83,7 @@
 .profile-text {
     display: flex;
     text-align: left;
-    padding: 1.4rem 7%;
+    padding: 1.2rem 7%;
     flex-direction: column;
 }
 
@@ -121,7 +121,7 @@
 }
 
 .Media {
-    padding: 1.4rem 7%;
+    padding: 1.2rem 7%;
     font-family: Arial, sans-serif;
     text-align: center;
 }
